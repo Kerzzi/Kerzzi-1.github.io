@@ -22,7 +22,7 @@ weibo_username:     Kerzzi
 zhihu_username:     kerzzi
 github_username:    Kerzzi
 facebook_username:  刘铮
-jianshu_username:   kerzzi
+jianshu_username:   e659240598f7
 twitter_username:   kerzzi123
 
 
@@ -72,7 +72,7 @@ disqus_username: kerzzi
 ba_track_id: b50bf2b12b5338a1845e33832976fd68
 
 # Google Analytics
-ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
+ga_track_id: 'UA-103039981-1'            # Format: UA-xxxxxx-xx
 ga_domain: auto
 
 
