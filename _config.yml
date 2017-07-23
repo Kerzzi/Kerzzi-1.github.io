@@ -94,16 +94,19 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
-        href: "http://zhengwuyang.com"
+        title: "Logdown",
+        href: "http://kerzzi.logdown.com/"
     },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
+        title: "简书·KZ",
+        href: "http://www.jianshu.com/u/e659240598f7"
     },{
         title: "Apple",
         href: "https://apple.com"
     },{
         title: "Apple Developer",
         href: "https://developer.apple.com/"
+    },{
+        title: "读立写生",
+        href: "http://www.cnfeat.com/"
     }
 ]
